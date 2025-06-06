@@ -1,0 +1,1 @@
+hey, we're chatting inside your firmware flashing process! What's upppp? what do you want to configure for your new system and what features will you choose for your new version of TimOS (a.k.a. TimOSdelta)?
